@@ -1,0 +1,8 @@
+node_modules
+package-lock.json
+build
+dist
+
+.DS_Store
+.rpt2_cache
+.idea

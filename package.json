@@ -1,0 +1,29 @@
+{
+  "name": "react-bem-classname",
+  "version": "0.0.1",
+  "description": "Generate BEM style classNames(reactive with states) for react component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waynecz/react-bem-classname.git"
+  },
+  "files": ["dist"],
+  "keywords": [
+    "react",
+    "className",
+    "BEM"
+  ],
+  "author": "waynecz <451578533@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/waynecz/react-bem-classname/issues"
+  },
+  "homepage": "https://github.com/waynecz/react-bem-classname#readme",
+  "devDependencies": {
+    "typescript": "^3.2.1"
+  }
+}
