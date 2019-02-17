@@ -1,6 +1,6 @@
 # React BEM className generator
 
-#### Supporting facilities
+### Supporting facilities
 1. [watson-scss](https://github.com/waynecz/Watson) for writing nested BEM  fastly and furiously.
 2. [watson-snippet](https://github.com/waynecz/watson-snippet) vscode extension for coding faster.
 
